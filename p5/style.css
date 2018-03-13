@@ -1,0 +1,25 @@
+* {
+    font-family: Arial, serif;
+}
+
+
+th {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 5px 20px 5px 20px;
+    font-weight: normal;
+}
+
+table, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 5px;
+}
+
+.aligned_right {
+    text-align: right;
+}
